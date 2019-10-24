@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso de JS com TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Edson Carlos <edonle@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edonle/js-tdd-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edonle/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/edonle/js-tdd-course#readme"
+}
